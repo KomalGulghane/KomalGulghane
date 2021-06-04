@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey there, nice to see you here! 👋, I'm Komal Gulghane
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img src="https://tse2.mm.bing.net/th?id=OIP.iVOZl_Czwf8WyWbuDFZJ5gAAAA&pid=Api&P=0&w=311&h=156" alt="coverpic" style="width:900px;height:900px;">
+<p align="left"> <img src="https://tse1.mm.bing.net/th?id=OIP.YCJLxs_ul42eHP2CgWhSVAHaDt&pid=Api&P=0&w=312&h=157" alt="komalgulghane1999" /> </p>
 
 Here are some ideas to get you started:
 
