@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey there, nice to see you here! 👋, I'm Komal Gulghane
 <h2 align="center">A passionate fullstack developer from India</h2>
-<img align="center" src="https://cdn.quotesgram.com/img/73/79/738524856-quotes-passion-v2-01-kurt-vonnegut-949x534.jpg" alt="komalgulghane1999" height="350" width="1500" /></a>
+<img align="center" src="http://addicted2success.com/wp-content/uploads/2013/09/Steve-Jobs-Passion-Picture-Quotes.jpg" alt="komalgulghane1999" height="350" width="1500" /></a>
 
 <br>
 
