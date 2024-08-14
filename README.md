@@ -1,15 +1,10 @@
 
 
 <h1 align="center"> Hey there, nice to see you here! 👋, I'm Komal Gulghane
-<h2 align="center">A passionate fullstack developer from India</h2>
+<h2 align="center">A passionate salesforce developer from India</h2>
 <img align="center" src="http://addicted2success.com/wp-content/uploads/2013/09/Steve-Jobs-Passion-Picture-Quotes.jpg" alt="komalgulghane1999" height="350" width="1500" /></a>
 
 <br>
-
-- 🔭 I’m currently working on MERN Stack
-- 🌱  I’m currently learning NodeJS
-  👨‍💻 All of my projects are available at https://komalgulghane.github.io/MyPortFolio/
-- 💬 Ask me about **Web Development**
 - 📫 How to  reach me: komalgulghane1999@gmail.com
 
 
